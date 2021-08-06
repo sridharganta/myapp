@@ -1,3 +1,4 @@
+hello
 this is a new file. 
 enjoy working in local git repo
 
